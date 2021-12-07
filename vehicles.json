@@ -213,6 +213,7 @@
 		"ID": 45,
 		"name": "DPH",
 		"namelong": "Dompelpomphaakarmbak"
+	},
 	{
 		"ID": 46,
 		"name": "DM Noodhulp",
@@ -312,7 +313,6 @@
 		"ID": 65,
 		"name": "DAT-RB",
 		"namelong": " Dienstauto Terreinwaardig- Reddingsbrigade"
-		}
 	},
 	{
 		"ID": 66,
