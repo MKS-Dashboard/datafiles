@@ -225,7 +225,13 @@
 		"ID": 39,
 		"name": "ME Commandovoertuig",
 		"namelong": "ME Commandovoertuig",
-		"categorie": "Brandweer"
+		"categorie": "Politie"
+	},
+	{
+		"ID": 40,
+		"name": "ME Flex",
+		"namelong": "ME Flexbus",
+		"categorie": "Politie"
 	},
 	{
 		"ID": 41,
