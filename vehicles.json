@@ -2,326 +2,391 @@
 	{
 		"ID": 0,
 		"name": "SI‐2",
-		"namelong": "Snel Inzetbare Eenheid (2 pers.)"
+		"namelong": "Snel Inzetbare Eenheid (2 pers.)",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 1,
 		"name": "TS 8/9",
-		"namelong": "Tankautospuit (8/9 personen)"
+		"namelong": "Tankautospuit (8/9 personen)",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 2,
 		"name": "AL",
-		"namelong": "Autoladder"
+		"namelong": "Autoladder",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 3,
 		"name": "DA-OVD",
-		"namelong": "Officier van Dienst - Brandweer"
+		"namelong": "Officier van Dienst - Brandweer",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 4,
 		"name": "HV",
-		"namelong": "Hulpverleningsvoertuig"
+		"namelong": "Hulpverleningsvoertuig",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 5,
 		"name": "AB",
-		"namelong": "Adembeschermingsvoertuig"
+		"namelong": "Adembeschermingsvoertuig",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 6,
 		"name": "TST 8/9",
-		"namelong": "Tankautospuit Terreinvaardig (8/9 personen)"
+		"namelong": "Tankautospuit Terreinvaardig (8/9 personen)",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 7,
 		"name": "TST 6/7",
-		"namelong": "Tankautospuit Terreinvaardig (6/7 personen)"
+		"namelong": "Tankautospuit Terreinvaardig (6/7 personen)",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 8,
 		"name": "TST 4/5",
-		"namelong": "Tankautospuit Terreinvaardig (4/5 personen)"
+		"namelong": "Tankautospuit Terreinvaardig (4/5 personen)",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 9,
 		"name": "TS 4/5",
-		"namelong": "Tankautospuit (4/5 personen)"
+		"namelong": "Tankautospuit (4/5 personen)",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 10,
 		"name": "SL",
-		"namelong": "Slangenwagen"
+		"namelong": "Slangenwagen",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 11,
 		"name": "DB-VEB",
-		"namelong": "Dienstbus Verkenningseenheid Brandweer"
+		"namelong": "Dienstbus Verkenningseenheid Brandweer",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 12,
 		"name": "TST-NB 8/9",
-		"namelong": "Tankautospuit Natuurbrandbestrijding (8/9 personen)"
+		"namelong": "Tankautospuit Natuurbrandbestrijding (8/9 personen)",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 14,
 		"name": "TST-NB 6/7",
-		"namelong": "Tankautospuit Natuurbrandbestrijding (6/7 personen)"
+		"namelong": "Tankautospuit Natuurbrandbestrijding (6/7 personen)",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 15,
 		"name": "TST-NB 4/5",
-		"namelong": "Tankautospuit Natuurbrandbestrijding (4/5 personen)"
+		"namelong": "Tankautospuit Natuurbrandbestrijding (4/5 personen)",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 16,
 		"name": "Ambulance",
-		"namelong": "Ambulance"
+		"namelong": "Ambulance",
+		"categorie": "Ambulance"
 	},
 	{
 		"ID": 17,
 		"name": "TS 6/7",
-		"namelong": "Tankautospuit (6/7 personen)"
+		"namelong": "Tankautospuit (6/7 personen)",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 18,
 		"name": "HW",
-		"namelong": "Hoogwerker"
+		"namelong": "Hoogwerker",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 19,
 		"name": "DA-HOD",
-		"namelong": "Hoofd Officier van Dienst - Brandweer"
+		"namelong": "Hoofd Officier van Dienst - Brandweer",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 20,
 		"name": "DA",
-		"namelong": "Dienstauto (4 personen)"
+		"namelong": "Dienstauto (4 personen)",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 21,
 		"name": "DB-K",
-		"namelong": "Dienstbus klein (9 personen)"
+		"namelong": "Dienstbus klein (9 personen)",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 22,
 		"name": "DA Noodhulp",
-		"namelong": "Dienstauto Noodhulp"
+		"namelong": "Dienstauto Noodhulp",
+		"categorie": "Politie"
 	},
 	{
 		"ID": 23,
 		"name": "Lifeliner",
-		"namelong": "Lifeliner"
+		"namelong": "Lifeliner",
+		"categorie": "Ambulance"
 	},
 	{
 		"ID": 24,
 		"name": "DA-AGS",
-		"namelong": "Adviseur Gevaarlijke Stoffen - Brandweer"
+		"namelong": "Adviseur Gevaarlijke Stoffen - Brandweer",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 25,
 		"name": "DB Noodhulp",
-		"namelong": "Dienstbus Noodhulp"
+		"namelong": "Dienstbus Noodhulp",
+		"categorie": "Politie"
 	},
 	{
 		"ID": 26,
 		"name": "HA",
-		"namelong": "Haakarmvoertuig"
+		"namelong": "Haakarmvoertuig",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 27,
 		"name": "ABH",
-		"namelong": "Adembeschermingshaakarmbak"
+		"namelong": "Adembeschermingshaakarmbak",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 28,
 		"name": "Politiehelikopter",
-		"namelong": "Politiehelikopter"
+		"namelong": "Politiehelikopter",
+		"categorie": "Politie"
 	},
 	{
 		"ID": 29,
 		"name": "WTH",
-		"namelong": "Watertankhaakarmbak"
+		"namelong": "Watertankhaakarmbak",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 30,
 		"name": "Zorgambulance",
-		"namelong": "B-ambulance"
+		"namelong": "B-ambulance",
+		"categorie": "Ambulance"
 	},
 	{
 		"ID": 31,
 		"name": "CO",
-		"namelong": "Commandovoertuig"
+		"namelong": "Commandovoertuig",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 32,
 		"name": "COH",
-		"namelong": "Commandohaakarmbak"
+		"namelong": "Commandohaakarmbak",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 33,
 		"name": "WO",
-		"namelong": "Waterongevallenvoertuig"
+		"namelong": "Waterongevallenvoertuig",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 34,
 		"name": "WT",
-		"namelong": "Watertankwagen"
+		"namelong": "Watertankwagen",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 36,
 		"name": "WOA",
-		"namelong": "Waterongevallenaanhanger"
+		"namelong": "Waterongevallenaanhanger",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 37,
 		"name": "MMT-Auto",
-		"namelong": "MMT-Auto"
+		"namelong": "MMT-Auto",
+		"categorie": "Ambulance"
 	},
 	{
 		"ID": 38,
 		"name": "OvD-G",
-		"namelong": "Officier van Dienst Geneeskunde"
+		"namelong": "Officier van Dienst Geneeskunde",
+		"categorie": "Ambulance"
 	},
 	{
 		"ID": 39,
 		"name": "ME Commandovoertuig",
-		"namelong": "ME Commandovoertuig"
+		"namelong": "ME Commandovoertuig",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 41,
 		"name": "CT (8x8)",
-		"namelong": "Crashtender (8x8)"
+		"namelong": "Crashtender (8x8)",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 42,
 		"name": "CT (6x6)",
-		"namelong": "Crashtender (6x6)"
+		"namelong": "Crashtender (6x6)",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 43,
 		"name": "CT (4x4)",
-		"namelong": "Crashtender (4x4)"
+		"namelong": "Crashtender (4x4)",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 44,
 		"name": "AFO/OSC",
-		"namelong": "Airport fire Officer / On Scene Commander"
+		"namelong": "Airport fire Officer / On Scene Commander",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 45,
 		"name": "DPH",
-		"namelong": "Dompelpomphaakarmbak"
+		"namelong": "Dompelpomphaakarmbak",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 46,
 		"name": "DM Noodhulp",
-		"namelong": "Dienstmotor Noodhulp"
+		"namelong": "Dienstmotor Noodhulp",
+		"categorie": "Politie"
 	},
 	{
 		"ID": 47,
 		"name": "DA Hondengeleider",
-		"namelong": "Dienstauto Hondengeleider"
+		"namelong": "Dienstauto Hondengeleider",
+		"categorie": "Politie"
 	},
 	{
 		"ID": 48,
 		"name": "DB Hondengeleider",
-		"namelong": "Dienstbus Hondengeleider"
+		"namelong": "Dienstbus Hondengeleider",
+		"categorie": "Politie"
 	},
 	{
 		"ID": 49,
 		"name": "PM-OR",
-		"namelong": "Materieelvoertuig - Oppervlakteredding"
+		"namelong": "Materieelvoertuig - Oppervlakteredding",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 50,
 		"name": "TS-OR",
-		"namelong": "Tankautospuit - Oppervlakteredding"
+		"namelong": "Tankautospuit - Oppervlakteredding",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 51,
 		"name": "HVH",
-		"namelong": "Hulpverleningshaakarmbak"
+		"namelong": "Hulpverleningshaakarmbak",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 52,
 		"name": "RR",
-		"namelong": "Rapid Responder"
+		"namelong": "Rapid Responder",
+		"categorie": "Ambulance"
 	},
 	{
 		"ID": 53,
 		"name": "AT-C",
-		"namelong": "AT-Commandant"
+		"namelong": "AT-Commandant",
+		"categorie": "Politie"
 	},
 	{
 		"ID": 54,
 		"name": "AT-O",
-		"namelong": "AT-Operator"
+		"namelong": "AT-Operator",
+		"categorie": "Politie"
 	},
 	{
 		"ID": 55,
 		"name": "AT-M",
-		"namelong": "AT-Materiaalwagen"
+		"namelong": "AT-Materiaalwagen",
+		"categorie": "Politie"
 	},
 	{
 		"ID": 56,
 		"name": "DA-VL",
-		"namelong": "Dienstauto Voorlichter"
+		"namelong": "Dienstauto Voorlichter",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 57,
 		"name": "DA OVDG-RR",
-		"namelong": "Dienstvoertuig Officier van Dienst-Geneeskundig/Rapid Responder"
+		"namelong": "Dienstvoertuig Officier van Dienst-Geneeskundig/Rapid Responder",
+		"categorie": "Ambulance"
 	},
 	{
 		"ID": 58,
 		"name": "DB-AV",
-		"namelong": "Dienstbus - Arrestantenvervoer"
+		"namelong": "Dienstbus - Arrestantenvervoer",
+		"categorie": "Politie"
 	},
 	{
 		"ID": 59,
 		"name": "NH-O",
-		"namelong": "Noodhulp - Onopvallend"
+		"namelong": "Noodhulp - Onopvallend",
+		"categorie": "Politie"
 	},
 	{
 		"ID": 60,
 		"name": "DB-Bike",
-		"namelong": "Dienstbus Biketeam"
+		"namelong": "Dienstbus Biketeam",
+		"categorie": "Politie"
 	},
 	{
 		"ID": 61,
 		"name": "SLH",
-		"namelong": "Slangenhaakarmbak"
+		"namelong": "Slangenhaakarmbak",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 62,
 		"name": "TS-HV",
-		"namelong": "Tankautospuit-Hulpverlening"
+		"namelong": "Tankautospuit-Hulpverlening",
+		"categorie": "Brandweer"
 	},
 	{
 		"ID": 63,
 		"name": "DM-RR",
-		"namelong": "Rapid Responder - Motor"
+		"namelong": "Rapid Responder - Motor",
+		"categorie": "Ambulance"
 	},
 	{
 		"ID": 64,
 		"name": "ME-AE",
-		"namelong": "ME - Aanhoudingseenheid"
+		"namelong": "ME - Aanhoudingseenheid",
+		"categorie": "Politie"
 	},
 	{
 		"ID": 65,
 		"name": "DAT-RB",
-		"namelong": " Dienstauto Terreinwaardig- Reddingsbrigade"
+		"namelong": " Dienstauto Terreinwaardig- Reddingsbrigade",
+		"categorie": "Waterredding"
 	},
 	{
 		"ID": 66,
 		"name": "KHV",
-		"namelong": "Kusthulpverleningsvoertuig"
+		"namelong": "Kusthulpverleningsvoertuig",
+		"categorie": "Waterredding"
 	},
 	{
 		"ID": 36,
 		"name": "BA-RB",
-		"namelong": "Bootaanhanger Reddingsbrigade"
+		"namelong": "Bootaanhanger Reddingsbrigade",
+		"categorie": "Waterredding"
 	}
 ]
