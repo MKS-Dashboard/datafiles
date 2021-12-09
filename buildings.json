@@ -1,0 +1,113 @@
+[
+    {
+        "ID": 0,
+        "name": "Brandweer, Kazerne",
+        "extentions": [
+            "Ambulance standplaats",
+            "Waterongevallenbestrijding",
+            "Vliegtuigbrandbestrijding",
+            "Haakarmbak parkeerplaats"
+        ]
+    },
+    {
+        "ID": 1,
+        "name": "Meldkamer"
+    },
+    {
+        "ID": 2,
+        "name": "Ziekenhuis",
+        "extentions": [
+            "Interne Geneeskunde",
+            "Algemene Heelkunde",
+            "Gynaecologie",
+            "Urologie",
+            "Traumatologie",
+            "Neurologie",
+            "Neurochirurgie",
+            "Cardiologie",
+            "Cardiochirurgie"
+        ]
+    },
+    {
+        "ID": 3,
+        "name": "Ambulance, Standplaats"
+    },
+    {
+        "ID": 4,
+        "name": "Brandweer, Academie",
+        "extentions": [
+            "Extra klaslokaal"
+        ]
+    },
+    {
+        "ID": 5,
+        "name": "Politie, Opkomstbureau",
+        "extentions": [
+            "Gevangeniscel",
+            "Extra cel"
+        ]
+    },
+    {
+        "ID": 6,
+        "name": "MMT, Standplaats"
+    },
+    {
+        "ID": 7,
+        "name": "Universiteit Faculteit Geneeskunde",
+        "extentions": [
+            "Extra klaslokaal"
+        ]
+    },
+    {
+        "ID": 8,
+        "name": "Politie, Academie",
+        "extentions": [
+            "Extra klaslokaal"
+        ]
+    },
+    {
+        "ID": 9,
+        "name": "Politiehelikoper standplaats"
+    },
+    {
+        "ID": 10,
+        "name": "Uitgangstelling (UGS)"
+    },
+    {
+        "ID": 11,
+        "name": "Politie, Hoofdbureau",
+        "extentions": [
+            "2e OvD-P",
+            "Arrestantenvervoer",
+            "Mobiele Eenheid, Sectie",
+            "Mobiele Eenheid, 2e Sectie",
+            "Mobiele Eenheid, Aanhoudingseenheid",
+            "Hondenbrigade",
+            "Arrestatieteam"
+        ]
+    },
+    {
+        "ID": 12,
+        "name": "Politie, Cellencomplex voor teams",
+        "extentions": [
+            "Gevangeniscel",
+            "Extra cel"
+        ]
+    },
+    {
+        "ID": 13,
+        "name": "Ambulance, VWS-post"
+    },
+    {
+        "ID": 14,
+        "name": "Groot gebouwencomplex"
+    },
+    {
+        "ID": 15,
+        "name": "Klein gebouwencomplex"
+    },
+    {
+        "ID": 16,
+        "name": "Waterreddingspost"
+    }
+]
