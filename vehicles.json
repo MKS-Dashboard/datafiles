@@ -390,9 +390,39 @@
 		"categorie": "Waterredding"
 	},
 	{
-		"ID": 36,
+		"ID": 67,
 		"name": "BA-RB",
 		"namelong": "Bootaanhanger Reddingsbrigade",
 		"categorie": "Waterredding"
+	},
+	{
+		"ID": 68,
+		"name": "SB",
+		"namelong": "Schuimblusvoertuig",
+		"categorie": "Brandweer"
+	},
+	{
+		"ID": 69,
+		"name": "SBH",
+		"namelong": "Schuimblushaakarmbak",
+		"categorie": "Brandweer"
+	},
+	{
+		"ID": 70,
+		"name": "SBA",
+		"namelong": "Schuimblusaanhanger",
+		"categorie": "Brandweer"
+	},
+	{
+		"ID": 71,
+		"name": "MSA",
+		"namelong": "Motorspuitaanhanger",
+		"categorie": "Brandweer"
+	},
+	{
+		"ID": 72,
+		"name": "DPA",
+		"namelong": "Dompelpompaanhangwagen",
+		"categorie": "Brandweer"
 	}
 ]
