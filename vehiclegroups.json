@@ -1,0 +1,166 @@
+[
+    {
+        "name": "Mobiel Medisch Team",
+        "vehicles": [
+            23,
+            37
+        ],
+        "type": "Ambulance"
+    },
+    {
+        "name": "Rapid Responder",
+        "vehicles": [
+            51,
+            57,
+            63
+        ],
+        "type": "Ambulance"
+    },
+    {
+        "name": "Officier van Dienst - Geneeskunde",
+        "vehicles": [
+            38,
+            57
+        ],
+        "type": "Ambulance"
+    },
+    {
+        "name": "Tankautospuiten",
+        "vehicles": [
+            0,
+            1,
+            6,
+            7,
+            8,
+            9,
+            12,
+            14,
+            15,
+            17,
+            50
+        ],
+        "type": "Brandweer"
+    },
+    {
+        "name": "Redvoertuigen",
+        "vehicles": [
+            2,
+            18
+        ],
+        "type": "Brandweer"
+    },
+    {
+        "name": "Dienstvoertuigen",
+        "vehicles": [
+            20,
+            21
+        ],
+        "type": "Brandweer"
+    },
+    {
+        "name": "Waterongevallen/Oppervlakteredding",
+        "vehicles": [
+            33,
+            49,
+            50
+        ],
+        "type": "Brandweer"
+    },
+    {
+        "name": "Crashtenders",
+        "vehicles": [
+            41,
+            42,
+            43
+        ],
+        "type": "Brandweer"
+    },
+    {
+        "name": "Hulpverleningsvoertuigen",
+        "vehicles": [
+            4,
+            51
+        ],
+        "type": "Brandweer"
+    },
+    {
+        "name": "Adembeschermingsvoertuigen",
+        "vehicles": [
+            5,
+            27
+        ],
+        "type": "Brandweer"
+    },
+    {
+        "name": "Commandowagens",
+        "vehicles": [
+            31,
+            32
+        ],
+        "type": "Brandweer"
+    },
+    {
+        "name": "Schuimblusvoertuigen",
+        "vehicles": [
+            68,
+            69,
+            70
+        ],
+        "type": "Brandweer"
+    },
+    {
+        "name": "Pompvoertuigen",
+        "vehicles": [
+            71,
+            72
+        ],
+        "type": "Brandweer"
+    },
+    {
+        "name": "Officeren van Dienst - Brandweer",
+        "vehicles": [
+            3,
+            19
+        ],
+        "type": "Brandweer"
+    },
+    {
+        "name": "Slangenwagen/Watertransport",
+        "vehicles": [
+            10,
+            34,
+            29,
+            45
+        ],
+        "type": "Brandweer"
+    },
+    {
+        "name": "Noordhulpeenheden",
+        "vehicles": [
+            22,
+            25,
+            46,
+            47,
+            48,
+            59,
+            60
+        ],
+        "type": "Politie"
+    },
+    {
+        "name": "Hondengeleiders",
+        "vehicles": [
+            47,
+            48
+        ],
+        "type": "Politie"
+    },
+    {
+        "name": "Strandvoertuigen",
+        "vehicles": [
+            65,
+            66
+        ],
+        "type": "Waterredding"
+    }
+]
