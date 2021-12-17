@@ -1,13 +1,15 @@
 [
     {
-        "Mobiel Medisch Team": [
+        "name": "Mobiel Medisch Team",
+        "vehicles": [
             23,
             37
         ],
         "type": "Ambulance"
     },
     {
-        "Tankautospuiten": [
+        "name": "Tankautospuiten",
+        "vehicles": [
             0,
             1,
             6,
@@ -23,14 +25,16 @@
         "type": "Brandweer"
     },
     {
-        "Redvoertuigen": [
+        "name": "Redvoertuigen",
+        "vehicles": [
             2,
             18
         ],
         "type": "Brandweer"
     },
     {
-        "Noordhulpeenheden": [
+        "name": "Noordhulpeenheden",
+        "vehicles": [
             22,
             25,
             46,
