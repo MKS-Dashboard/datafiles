@@ -1,52 +1,44 @@
 [
     {
-        "Ambulance": [
-            {
-                "Mobiel Medisch Team": [
-                    23,
-                    37
-                ]
-            }
-        ]
+        "Mobiel Medisch Team": [
+            23,
+            37
+        ],
+        "type": "Ambulance"
     },
     {
-        "Brandweer": [
-            {
-                "Tankautospuiten": [
-                    0,
-                    1,
-                    6,
-                    7,
-                    8,
-                    9,
-                    12,
-                    14,
-                    15,
-                    17,
-                    50
-                ]
-            },
-            {
-                "Redvoertuigen": [
-                    2,
-                    18
-                ]
-            }
-        ]
+        "Tankautospuiten": [
+            0,
+            1,
+            6,
+            7,
+            8,
+            9,
+            12,
+            14,
+            15,
+            17,
+            50
+        ],
+        "type": "Brandweer"
     },
     {
-        "Politie": [
-            {
-                "Noordhulpeenheden": [
-                    22,
-                    25,
-                    46,
-                    47,
-                    48,
-                    59,
-                    60
-                ]
-            }
-        ]
+        "Redvoertuigen": [
+            2,
+            18
+        ],
+        "type": "Brandweer"
+    },
+    {
+        "Noordhulpeenheden": [
+            22,
+            25,
+            46,
+            47,
+            48,
+            59,
+            60
+        ],
+        "type": "Politie"
     }
 ]
