@@ -1,0 +1,48 @@
+[
+    {
+        "Ambulance": [
+            {
+                "Mobiel Medisch Team": [
+                    23,
+                    37
+                ]
+            }
+        ],
+        "Brandweer": [
+            {
+                "Tankautospuiten": [
+                    0,
+                    1,
+                    6,
+                    7,
+                    8,
+                    9,
+                    12,
+                    14,
+                    15,
+                    17,
+                    50
+                ]
+            },
+            {
+                "Redvoertuigen": [
+                    2,
+                    18
+                ]
+            }
+        ],
+        "Politie": [
+            {
+                "Noordhulpeenheden": [
+                    22,
+                    25,
+                    46,
+                    47,
+                    48,
+                    59,
+                    60
+                ]
+            }
+        ]
+    }
+]
