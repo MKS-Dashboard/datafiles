@@ -204,6 +204,12 @@
 		"categorie": "Brandweer"
 	},
 	{
+		"ID": 35,
+		"name": "OVD-P",
+		"namelong": "Officier van Dienst - Politie",
+		"categorie": "Politie"
+	},	
+	{
 		"ID": 36,
 		"name": "WOA",
 		"namelong": "Waterongevallenaanhanger",
