@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Liters Water",
+        "Voertuigen": [
+            0,
+            1,
+            6,
+            7,
+            8,
+            9,
+            12,
+            14,
+            15,
+            17,
+            50
+        ],
+        "LitersPerVoertuig": [
+            {
+                "id": 0,
+                "amount": 500
+            },
+            {
+                "id": 1,
+                "amount": 500
+            },
+            {
+                "id": 6,
+                "amount": 500
+            },
+            {
+                "id": 7,
+                "amount": 500
+            },
+            {
+                "id": 9,
+                "amount": 500
+            },
+            {
+                "id": 12,
+                "amount": 500
+            },
+            {
+                "id": 14,
+                "amount": 500
+            },
+            {
+                "id": 15,
+                "amount": 500
+            },
+            {
+                "id": 17,
+                "amount": 500
+            },
+            {
+                "id": 50,
+                "amount": 500
+            }
+        ]
+    }
+]
