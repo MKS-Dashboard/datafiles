@@ -149,6 +149,16 @@
         "type": "Politie"
     },
     {
+        "name": "Noordhulpvoertuigen",
+        "vehicles": [
+            22,
+            25,
+            46,
+            59
+        ],
+        "type": "Politie"
+    },
+    {
         "name": "Hondengeleiders",
         "vehicles": [
             47,
