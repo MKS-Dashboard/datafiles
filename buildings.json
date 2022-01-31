@@ -32,8 +32,8 @@
     },
     {
         "ID": 3,
-        "name": "Ambulance, Standplaats"
-        "smallBuildingId": 13,
+        "name": "Ambulance, Standplaats",
+        "smallBuildingId": 13
     },
     {
         "ID": 4,
