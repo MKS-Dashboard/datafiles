@@ -2,11 +2,13 @@
     {
         "ID": 0,
         "name": "Brandweer, Kazerne",
+        "smallBuildingId": 17,
         "extentions": [
             "Ambulance standplaats",
             "Waterongevallenbestrijding",
             "Vliegtuigbrandbestrijding",
-            "Haakarmbak parkeerplaats"
+            "Haakarmbak parkeerplaats",
+            "Schuimblussing"
         ]
     },
     {
@@ -31,6 +33,7 @@
     {
         "ID": 3,
         "name": "Ambulance, Standplaats"
+        "smallBuildingId": 13,
     },
     {
         "ID": 4,
@@ -109,5 +112,16 @@
     {
         "ID": 16,
         "name": "Waterreddingspost"
+    },
+    {
+        "ID": 17,
+        "name": "Brandweer, Kazerne 9Klein)",
+        "extentions": [
+            "Ambulance standplaats",
+            "Waterongevallenbestrijding",
+            "Vliegtuigbrandbestrijding",
+            "Haakarmbak parkeerplaats",
+            "Schuimblussing"
+        ]
     }
 ]
