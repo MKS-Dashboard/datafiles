@@ -45,6 +45,7 @@
     {
         "ID": 5,
         "name": "Politie, Opkomstbureau",
+        "smallBuildingId": 18,
         "extentions": [
             "Gevangeniscel",
             "Extra cel"
@@ -122,6 +123,14 @@
             "Vliegtuigbrandbestrijding",
             "Haakarmbak parkeerplaats",
             "Schuimblussing"
+        ]
+    },
+    {
+        "ID": 18,
+        "name": "Politie, Opkomstbureau (Klein)",
+        "extentions": [
+            "Gevangeniscel",
+            "Extra cel"
         ]
     }
 ]
