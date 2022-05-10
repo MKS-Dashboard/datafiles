@@ -136,7 +136,7 @@
         "type": "Brandweer"
     },
     {
-        "name": "Noordhulpeenheden",
+        "name": "Noodhulpeenheden",
         "vehicles": [
             22,
             25,
@@ -149,7 +149,7 @@
         "type": "Politie"
     },
     {
-        "name": "Noordhulpvoertuigen",
+        "name": "Noodhulpvoertuigen",
         "vehicles": [
             22,
             25,
