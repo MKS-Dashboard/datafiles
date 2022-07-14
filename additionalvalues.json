@@ -1,6 +1,7 @@
 [
     {
         "name": "Liters Water (geen Boost)",
+        "type": "Brandweer",
         "Voertuigen": [
             {
                 "id": 0,
@@ -82,6 +83,7 @@
     },
     {
         "name": "Liters SVM",
+        "type": "Brandweer",
         "Voertuigen": [
             {
                 "id": 41,
