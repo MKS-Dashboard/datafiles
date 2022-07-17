@@ -144,17 +144,16 @@
             47,
             48,
             59,
-            60
+            60,
+            75
         ],
         "type": "Politie"
     },
     {
-        "name": "Noodhulpvoertuigen",
+        "name": "Bereden Brigade voertuigen",
         "vehicles": [
-            22,
-            25,
-            46,
-            59
+            73,
+            74
         ],
         "type": "Politie"
     },

@@ -110,5 +110,19 @@
                 "amount": 500
             }
         ]
+    },
+    {
+        "name": "Paarden (volle voertuigen)",
+        "type": "Politie",
+        "Voertuigen": [
+            {
+                "id": 73,
+                "amount": 4
+            },
+            {
+                "id": 74,
+                "amount": 2
+            }
+        ]
     }
 ]

@@ -208,7 +208,7 @@
 		"name": "OVD-P",
 		"namelong": "Officier van Dienst - Politie",
 		"categorie": "Politie"
-	},	
+	},
 	{
 		"ID": 36,
 		"name": "WOA",
@@ -430,5 +430,23 @@
 		"name": "DPA",
 		"namelong": "Dompelpompaanhangwagen",
 		"categorie": "Brandweer"
+	},
+	{
+		"ID": 73,
+		"name": "VW-BB",
+		"namelong": "Vrachtwagen – Bereden Brigade",
+		"categorie": "Politie"
+	},
+	{
+		"ID": 74,
+		"name": "BB-A",
+		"namelong": "Bereden Brigade Aanhanger",
+		"categorie": "Politie"
+	},
+	{
+		"ID": 75,
+		"name": "DAT-NH",
+		"namelong": "Dienstauto terreinvaardig - Noodhulp",
+		"categorie": "Politie"
 	}
 ]
