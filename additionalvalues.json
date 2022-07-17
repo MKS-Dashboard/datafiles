@@ -124,5 +124,27 @@
                 "amount": 2
             }
         ]
+    },
+    {
+        "name": "Patiënten behandeling",
+        "type": "Ambulance",
+        "Voertuigen": [
+            {
+                "id": 16,
+                "amount": 1
+            },
+            {
+                "id": 52,
+                "amount": 1
+            },
+            {
+                "id": 57,
+                "amount": 1
+            },
+            {
+                "id": 63,
+                "amount": 1
+            }
+        ]
     }
 ]
