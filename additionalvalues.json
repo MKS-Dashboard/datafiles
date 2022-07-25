@@ -146,5 +146,31 @@
                 "amount": 1
             }
         ]
+    },
+    {
+        "name": "Max arrestanten transport tegelijk",
+        "type": "Politie",
+        "Voertuigen": [
+            {
+                "id": 22,
+                "amount": 1
+            },
+            {
+                "id": 25,
+                "amount": 1
+            },
+            {
+                "id": 54,
+                "amount": 1
+            },
+            {
+                "id": 58,
+                "amount": 5
+            },
+            {
+                "id": 64,
+                "amount": 1
+            }
+        ]
     }
 ]
