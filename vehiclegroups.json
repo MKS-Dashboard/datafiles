@@ -111,6 +111,7 @@
     {
         "name": "Pompvoertuigen",
         "vehicles": [
+            45,
             71,
             72
         ],
