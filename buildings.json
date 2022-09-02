@@ -9,11 +9,13 @@
             "Vliegtuigbrandbestrijding",
             "Haakarmbak parkeerplaats",
             "Schuimblussing"
-        ]
+        ],
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 1,
-        "name": "Meldkamer"
+        "name": "Meldkamer",
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 2,
@@ -28,19 +30,22 @@
             "Neurochirurgie",
             "Cardiologie",
             "Cardiochirurgie"
-        ]
+        ],
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 3,
         "name": "Ambulance, Standplaats",
-        "smallBuildingId": 13
+        "smallBuildingId": 13,
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 4,
         "name": "Brandweer, Academie",
         "extentions": [
             "Extra klaslokaal"
-        ]
+        ],
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 5,
@@ -49,33 +54,39 @@
         "extentions": [
             "Gevangeniscel",
             "Extra cel"
-        ]
+        ],
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 6,
-        "name": "MMT, Standplaats"
+        "name": "MMT, Standplaats",
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 7,
         "name": "Universiteit Faculteit Geneeskunde",
         "extentions": [
             "Extra klaslokaal"
-        ]
+        ],
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 8,
         "name": "Politie, Academie",
         "extentions": [
             "Extra klaslokaal"
-        ]
+        ],
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 9,
-        "name": "Politiehelikoper standplaats"
+        "name": "Politiehelikoper standplaats",
+        "LevelCountAsBuilding": true
     },
     {
         "ID": 10,
-        "name": "Uitgangstelling (UGS)"
+        "name": "Uitgangstelling (UGS)",
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 11,
@@ -89,7 +100,8 @@
             "Hondenbrigade",
             "Bereden Brigade",
             "Arrestatieteam"
-        ]
+        ],
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 12,
@@ -97,23 +109,28 @@
         "extentions": [
             "Gevangeniscel",
             "Extra cel"
-        ]
+        ],
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 13,
-        "name": "Ambulance, VWS-post"
+        "name": "Ambulance, VWS-post",
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 14,
-        "name": "Groot gebouwencomplex"
+        "name": "Groot gebouwencomplex",
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 15,
-        "name": "Klein gebouwencomplex"
+        "name": "Klein gebouwencomplex",
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 16,
-        "name": "Waterreddingspost"
+        "name": "Waterreddingspost",
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 17,
@@ -124,7 +141,8 @@
             "Vliegtuigbrandbestrijding",
             "Haakarmbak parkeerplaats",
             "Schuimblussing"
-        ]
+        ],
+        "LevelCountAsBuilding": false
     },
     {
         "ID": 18,
@@ -132,6 +150,7 @@
         "extentions": [
             "Gevangeniscel",
             "Extra cel"
-        ]
+        ],
+        "LevelCountAsBuilding": false
     }
 ]
