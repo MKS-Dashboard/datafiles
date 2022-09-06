@@ -44,6 +44,14 @@
             "water_needed": {
                 "one": "Liter water",
                 "more": "Liters water"
+            },
+            "hazmat_vehicles": {
+                "one": "Adviseur gevaarlijke stoffen",
+                "more": "Adviseurs gevaarlijke stoffen"
+            },
+            "gwmess": {
+                "one": "Verkenningseenheid",
+                "more": "Verkenningseenheden"
             }
         },
         "additional": {
